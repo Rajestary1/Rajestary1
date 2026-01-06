@@ -2,7 +2,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rajestary1&theme=radical&hide_border=true" alt="Streak Stats"/>
 </div>
 
-
 # Hi, I'm Yousof 👋
 
 Full-Stack Developer | Data Analyst | Cybersecurity Enthusiast  
@@ -52,6 +51,7 @@ Full-Stack Developer | Data Analyst | Cybersecurity Enthusiast
 ## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alucode.ir-4AB197?style=flat&logo=Google-Chrome&logoColor=white)](https://alucode.ir)  
+[![Website](https://img.shields.io/badge/Website-rajestary.ir-4AB197?style=flat&logo=Google-Chrome&logoColor=white)](https://rajestary.ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajestary-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajestary)  
 [![GitHub](https://img.shields.io/badge/GitHub-Rajestary1-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rajestary1)  
 [![Twitter](https://img.shields.io/badge/Twitter-@rajestary-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rajestary)  
