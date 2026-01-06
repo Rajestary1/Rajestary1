@@ -13,6 +13,8 @@ Full-Stack Developer | Data Analyst | Cybersecurity Enthusiast
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-rajestary@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajestary@gmail.com)
+
 
 - **Backend:** PHP (Laravel), Python  
 - **Frontend:** Vue.js, HTML, CSS, JS  
@@ -47,7 +49,9 @@ Full-Stack Developer | Data Analyst | Cybersecurity Enthusiast
 [![Portfolio](https://img.shields.io/badge/Portfolio-alucode.ir-4AB197?style=flat&logo=Google-Chrome&logoColor=white)](https://alucode.ir)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajestary-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajestary)  
 [![GitHub](https://img.shields.io/badge/GitHub-Rajestary1-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rajestary1)  
-[![Twitter](https://img.shields.io/badge/Twitter-@rajestary-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rajestary)
+[![Twitter](https://img.shields.io/badge/Twitter-@rajestary-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rajestary)  
+[![Email](https://img.shields.io/badge/Email-rajestary@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajestary@gmail.com)
+
 
 ---
 
