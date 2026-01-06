@@ -1,4 +1,7 @@
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rajestary1&theme=radical" alt="Streak Stats">
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rajestary1&theme=radical&hide_border=true" alt="Streak Stats"/>
+</div>
 
 # Hi, I'm Yousof 👋
 
