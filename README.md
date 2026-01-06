@@ -50,12 +50,44 @@ Full-Stack Developer | Data Analyst | Cybersecurity Enthusiast
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alucode.ir-4AB197?style=flat&logo=Google-Chrome&logoColor=white)](https://alucode.ir)  
-[![Website](https://img.shields.io/badge/Website-rajestary.ir-4AB197?style=flat&logo=Google-Chrome&logoColor=white)](https://rajestary.ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajestary-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajestary)  
-[![GitHub](https://img.shields.io/badge/GitHub-Rajestary1-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rajestary1)  
-[![Twitter](https://img.shields.io/badge/Twitter-@rajestary-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rajestary)  
-[![Email](https://img.shields.io/badge/Email-rajestary@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajestary@gmail.com)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://alucode.ir">
+        <img src="https://img.shields.io/badge/Portfolio-alucode.ir-4AB197?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://rajestary.ir">
+        <img src="https://img.shields.io/badge/Website-rajestary.ir-4AB197?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rajestary">
+        <img src="https://img.shields.io/badge/LinkedIn-Rajestary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Rajestary1">
+        <img src="https://img.shields.io/badge/GitHub-Rajestary1-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/rajestary">
+        <img src="https://img.shields.io/badge/Twitter-@rajestary-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:rajestary@gmail.com">
+        <img src="https://img.shields.io/badge/Email-rajestary@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
