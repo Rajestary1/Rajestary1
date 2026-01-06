@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Yousof 👋
 
-<!--
-**Rajestary1/Rajestary1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Data Analyst | Cybersecurity Enthusiast  
+15+ years in IT building secure, scalable web & mobile applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Expertise
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **Backend:** PHP (Laravel), Python  
+- **Frontend:** Vue.js, HTML, CSS, JS  
+- **Databases:** SQL, MySQL  
+- **Data & Automation:** Data Analysis, Machine Learning, Web Scraping  
+- **Cybersecurity:** Ethical Hacking (CEH), Penetration Testing, Secure Development  
+- **CMS & Tools:** WordPress, Git, API Integration, Technical SEO  
+
+---
+
+## 🛠️ What I Do
+
+- Develop web & mobile applications from scratch to professional level  
+- Maintain and optimize websites (security, updates, monitoring, SEO)  
+- Build automation tools & intelligent bots (Telegram, API-based bots)  
+- Lead and manage technical teams in complex projects  
+- Deliver scalable, clean, and future-ready solutions
+
+---
+
+## 🌟 Experience Highlights
+
+- Designed intelligent bots for high-security projects, including a US government website  
+- Built multiple marketplaces, e-commerce, corporate, news, and personal websites  
+- Extensive experience in secure infrastructure management & global projects  
+- Delivered solutions optimized for performance, security, and SEO  
+
+---
+
+## 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-alucode.ir-4AB197?style=flat&logo=Google-Chrome&logoColor=white)](https://alucode.ir)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajestary-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajestary)  
+[![GitHub](https://img.shields.io/badge/GitHub-Rajestary1-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rajestary1)  
+[![Twitter](https://img.shields.io/badge/Twitter-@rajestary-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rajestary)
+
+---
+
+> 💡 I write clean, scalable code with a focus on security, performance, and SEO.  
+> Let's collaborate and build something amazing! 🚀
