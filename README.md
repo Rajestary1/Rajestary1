@@ -1,7 +1,7 @@
-
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rajestary1&theme=radical&hide_border=true" alt="Streak Stats"/>
 </div>
+
 
 # Hi, I'm Yousof 👋
 
@@ -61,3 +61,11 @@ Full-Stack Developer | Data Analyst | Cybersecurity Enthusiast
 
 > 💡 I write clean, scalable code with a focus on security, performance, and SEO.  
 > Let's collaborate and build something amazing! 🚀
+
+---
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajestary1&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajestary1&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajestary1&theme=radical" alt="Profile Details"/>
+
+</div>
